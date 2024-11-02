@@ -2,7 +2,7 @@
 Frontend Welcome to the frontend repository of our 
 **Fashion eCommerce Platform**, a responsive, modern web application developed using the latest MERN stack tools, offering a seamless shopping experience with a range of innovative features.
 
-## Description This project is a fully responsive fashion eCommerce website built with React, Redux, and styled components, combined with backend APIs for product management, user authentication, and payment processing. 
+## This project is a fully responsive fashion eCommerce website built with React, Redux, and styled components, combined with backend APIs for product management, user authentication, and payment processing. 
 The application integrates 
 **Stripe** for secure online transactions and 
 **AWS S3** for efficient image storage and retrieval. 
