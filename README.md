@@ -16,11 +16,11 @@ Designed for scalability and user-friendliness, this platform serves as a compre
 - **Responsive Design**: Ensures optimal performance across devices (desktop, tablet, mobile).
 - **State Management**: Redux used to handle complex state logic across the app.
 
--  ## Tech Stack -
-**Frontend**: React, Redux,
-**Payment**: Stripe API - 
-**Image Storage**: AWS S3 for image upload and retrieval 
-**Backend Integration**: RESTful APIs for data hadndling
+## Tech Stack -
+**Frontend**: React, Redux.
+**Payment**: Stripe API.
+**Image Storage**: AWS S3 for image upload and retrieval. 
+**Backend Integration**: RESTful APIs for data hadndling.
   
   ## Getting Started -
 - 1. **Clone the Repository**: ```bash git clone https://github.com/username/repo-name.git ```
